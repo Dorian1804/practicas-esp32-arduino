@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.log
+*.pem
+*.key
+*.jks
+*.keystore
+node_modules/
+vendor/
+build/
+.gradle/
+.idea/
+local.properties
+__pycache__/
+.venv/
+.DS_Store

@@ -1,17 +1,26 @@
-# practicas-esp32-arduino
+# ESP32 y Arduino · Sistemas embebidos
 
-Coleccion local de proyectos y ejercicios recuperados. Coleccion para publicacion publica en GitHub, autorizada por el propietario.
+C++, GPIO, sensores, actuadores y puerto serie. Colección de prácticas académicas, organizada en carpetas descriptivas con una guía para cada proyecto.
 
-## Contenido
+## Catálogo
 
-11 archivos de codigo incluidos y 0 retenidos por coincidencias de privacidad. Las variantes se conservan en `proyectos/<identificador>/`, sin fusionar versiones diferentes. Los identificadores se relacionan con las carpetas originales en el inventario local, que no debe publicarse.
+| Proyecto | Archivos | Estado |
+|---|---:|---|
+| [Contador binario con ESP32 · 426018](proyectos/contador-binario-426018/) | 1 | Fuente recuperada |
+| [Contador binario con ESP32 · 50afeb](proyectos/contador-binario-50afeb/) | 6 | Fuente recuperada |
+| [Contador binario con ESP32 · 58bdfd](proyectos/contador-binario-58bdfd/) | 3 | Fuente recuperada |
+| [Motor DC con LCD · 735145](proyectos/motor-dc-lcd-735145/) | 1 | Fuente recuperada |
 
-## Uso y estado
+## Proyectos incorporados
 
-Esta es una copia de revision parcial: se omitieron archivos con posibles credenciales, correos, matriculas, datos SQL y rutas personales; tambien medios, bases de datos y binarios. Puede requerir recuperar recursos autorizados y sustituir configuraciones por variables de entorno. No se ha compilado ni ejecutado el codigo. No se garantiza que cada proyecto este completo.
+- [Respuesta de una LDR a un escalón de luz](proyectos/ldr-step-response/README.md)
 
-Conserva por separado cada proyecto al abrirlo en su IDE correspondiente. Revisa sus descriptores de dependencias antes de instalar o ejecutar.
+## Empezar
 
-## Antes de publicar
+1. Elige un proyecto del catálogo.
+2. Lee su README: contiene archivos, requisitos, dependencias y forma de ejecución.
+3. Trabaja con una sola variante y guarda la configuración privada fuera del repositorio.
 
-Resolver archivos retenidos y autoria de ejercicios de terceros, seleccionar versiones definitivas y comprobar funcionamiento. No se asigna licencia sin confirmar derechos. No incluir los informes locales.
+## Sobre las variantes
+
+Los sufijos breves distinguen versiones recuperadas. No representan proyectos comerciales distintos ni pruebas de funcionamiento. Algunas copias solo conservan parte del programa; su README indica las limitaciones detectadas.
